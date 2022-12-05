@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimeCalculator</string>
+    <string name="result">Результат:</string>
+    <string name="start_date">Начальная дата</string>
+    <string name="start_time">Начальное время</string>
+    <string name="finish_date">Конечная дата</string>
+    <string name="finish_time">Конечное время</string>
+    <string name="output_window">Введите дату и время</string>
+</resources>
